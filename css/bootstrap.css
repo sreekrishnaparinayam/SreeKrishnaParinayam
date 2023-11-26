@@ -24,9 +24,9 @@
   --info: #17a2b8;
   --warning: #ffc107;
   --danger: #dc3545;
+  --main: #ffe4c4;
   --light: #f8f9fa;
   --dark: #343a40;
-  --main: #ffe4c4;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -4791,6 +4791,8 @@ button.bg-danger:focus {
 
 .bg-main {
   background-color: #ffe4c4 !important; }
+
+
 
 .bg-light {
   background-color: #f8f9fa !important; }
