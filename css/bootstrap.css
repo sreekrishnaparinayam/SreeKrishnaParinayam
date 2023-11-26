@@ -24,7 +24,7 @@
   --info: #17a2b8;
   --warning: #ffc107;
   --danger: #dc3545;
-  --main: #ffe4c4;
+  --sree: #ffe4c4;
   --light: #f8f9fa;
   --dark: #343a40;
   --breakpoint-xs: 0;
@@ -4789,7 +4789,7 @@ button.bg-danger:focus {
   background-color: #bd2130 !important; }
 
 
-.bg-main {
+.bg-sree {
   background-color: #ffe4c4 !important; }
 
 
