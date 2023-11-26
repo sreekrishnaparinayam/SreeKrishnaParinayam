@@ -60,7 +60,7 @@ align-items: left;
 @media (max-width: 576px) {
 
         .ww-home-page .ww-wedding-announcement .ww-couple-name {
-          font-size: 70px; 
+          font-size: 30px; 
           align-items: center;
           justify-content: center;} }
 
