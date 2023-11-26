@@ -389,7 +389,10 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto; }
+  height: auto; 
+transform: translate(0px, 50px);
+  
+}
 
 
 
