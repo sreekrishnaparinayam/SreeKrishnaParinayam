@@ -4787,6 +4787,10 @@ button.bg-danger:hover,
 button.bg-danger:focus {
   background-color: #bd2130 !important; }
 
+
+.bg-main {
+  background-color: #f8f9fa !important; }
+
 .bg-light {
   background-color: #f8f9fa !important; }
 
