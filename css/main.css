@@ -23,7 +23,7 @@ align-items: center;
     max-width: 500px;
     margin: 0 auto;
     height: 100%;
-    color: #b22222; 
+    color: #5A361A; 
     align-items: center;
     justify-content: center;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
@@ -41,8 +41,8 @@ align-items: center;
       max-height: 350px;
 
       width: auto;
-align-items: left;
-    justify-content: left; }
+      align-items: left;
+      justify-content: left; }
 
       @media (max-width: 480px) {
         .ww-home-page .ww-wedding-announcement img {
@@ -79,7 +79,7 @@ align-items: left;
 
 /* Nav Bar Style */
 .ww-nav-bar .heart {
-  fill: #f26147;
+  fill: #FCDEC7;
   position: relative;
   top: 2px;
   width: 40px;
